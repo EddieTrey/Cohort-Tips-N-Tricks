@@ -6,6 +6,6 @@ YO YO YO~
     - cd ~ - goes to the root
     - **cd nameOfFolder** - goes to designated folder 
     - **cd ../** - goes back a folder
-3. **javac fileName.java - compiles your code in class files for JVM
-4. **java fileName - runs yo code
+3. **javac fileName.java** - compiles your code in class files for JVM
+4. **java fileName** - runs yo code
 
